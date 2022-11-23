@@ -1,0 +1,18 @@
+[
+    {
+        "name": "vada pav",
+        "description": "this is very local food of Mumbai",
+        "img": "https://e7.pngegg.com/pngimages/680/614/png-clipart-vada-pav-breakfast-pav-bhaji-samosa-fast-food-vadapav-vada-pav-breakfast.png",
+        "comments": "this is very delicious plz try atleast once",
+        "author": "vishal",
+        "date": "12 nov 2022"
+    },
+    {
+        "name": "samosha",
+        "description": "this is very famous delicious and spicy dish in India",
+        "img": "https://www.pngkit.com/png/detail/257-2577628_punjabi-samosa-samosa-png.png",
+        "comments": "very tasty and spicy",
+        "author": "annu",
+        "date": "22 nov 2022"
+    }
+]
