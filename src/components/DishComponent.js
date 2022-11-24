@@ -11,7 +11,6 @@ export default function DishComponent(props) {
           src={props.food1_img}
           alt="foodPics"
           style={{ width: "100" }}
-          width="50%"
         />
         <div className="card-body">
           <h5 className="card-title"> {props.name} </h5>{" "}

@@ -25,6 +25,7 @@ function App() {
               author={val.author}
               date={val.date}
               key={index}
+              img={val.img}
             />
           </div>
         );
